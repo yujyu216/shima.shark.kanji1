@@ -1,0 +1,1 @@
+# shima.shark.kanji1
