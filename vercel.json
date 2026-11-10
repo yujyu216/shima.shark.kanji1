@@ -1,1 +1,1 @@
-{"redirects":[{"destination":"/404","permanent":false,"source":"/full"},{"destination":"/404","permanent":false,"source":"/full/:path*"}]}
+{"redirects":[{"destination":"/404","permanent":false,"source":"/full"},{"destination":"/404","permanent":false,"source":"/full/"},{"destination":"/404","permanent":false,"source":"/full/:path*"}]}
